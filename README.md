@@ -1,16 +1,60 @@
 ### Hi there 👋
 
-<!--
-**fjah/fjah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex, a software developer from 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building a simple Instagram alternative
+- 🌱 I’m currently improving my Clojure skills
+- 📫 How to reach me:
+  - 💬 Discord: `alex.#0001`
+  - 📮 Email: <alexeek@protonmail.com>
+- 😄 Pronouns: he/him, they/them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Capabilities
+
+I'm most proficient in Go and TypeScript, but I know a bunch of other languages and frameworks.
+
+<details>
+  <summary>Expand me!</summary>
+
+  - 💻 Native:
+    - ⚙️ **Rust**
+      - 🚀 Rocket
+      - 🌐 Actix
+      - ⛽️ Diesel
+    - 🚄 **Go**
+      - 🍸 Gin
+      - 🐤 Chi
+      - 🤖 Disgord
+        - ✨ [Gommand](https://github.com/auttaja/gommand)
+      - 🎁 DB Drivers:
+        - 📚 MongoDB
+        - 🤔 RethinkDB
+        - 📦 SQL*
+    - 🔮 **Crystal**\*
+      - 🌐 Kemal
+  - ☕️ JVM:
+    - 🚪 **Clojure**
+      - 🎶 Compojure
+    - 🧠 **Kotlin**
+      - 🥾 Spring Boot
+  - 📚 Other:
+    - 🐍 **Python**
+      - 🌐 Django
+    - 🆎 **TypeScript** (JavaScript)
+      - 👨‍💻 Browser
+        - ⚛️ React
+        - 🌁 Vue
+      - 🖥 Node.js
+        - 🚃 Express
+        - 🎩 Koa
+      - 🦕 Deno*
+        - 🌲 Oak
+    - 🎹 **C#**\*
+      - 🌐 ASP.NET Core
+    - 📦 **SQL**\*
+      - 🐘 PostgreSQL
+      - 🚛 Cassandra (CQL)
+        - 🦖 ScyllaDB
+
+  > *not proficient enough yet
+</details>
