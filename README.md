@@ -55,6 +55,9 @@ I'm most proficient in Go and TypeScript, but I know a bunch of other languages 
       - 🐘 PostgreSQL
       - 🚛 Cassandra (CQL)
         - 🦖 ScyllaDB
+  - 👷 DevOps
+    - 🐬 Docker
+    - 🐙 GitHub Actions
 
   > *not proficient enough yet
 </details>
