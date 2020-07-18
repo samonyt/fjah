@@ -2,7 +2,6 @@
 
 I'm Alex, a software developer from 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
 
-- 🔭 I’m currently working on building a simple Instagram alternative
 - 🌱 I’m currently improving my Clojure skills
 - 📫 How to reach me:
   - 💬 Discord: `alex.#0001`
